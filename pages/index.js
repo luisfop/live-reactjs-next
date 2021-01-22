@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bem vindo a Imersão React-NextJs
+          Baby, love u me 2, merci ?
         </h1>
 
         <p className={styles.description}>
